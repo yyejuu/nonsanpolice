@@ -275,7 +275,7 @@ section.not >ul >li >a >.dw >span {
 /* other */
 section.other {
     width: 100%; height: 160px; margin-top: 130px;
-    background-image: url(/img/oth_bg.png);
+    background-image: url(../img/oth_bg.png);
     position: relative;
 }
 section.other >ul.oth {
@@ -292,9 +292,9 @@ section.other >ul.oth >li {
 section.other >ul.oth >li:hover {
     opacity: .6;
 }
-section.other >ul.oth >li:nth-child(1){background-image: url(/img/oth1.png); color: #000;}
-section.other >ul.oth >li:nth-child(2){background-image: url(/img/oth2.png);}
-section.other >ul.oth >li:nth-child(3){background-image: url(/img/oth3.png);}
+section.other >ul.oth >li:nth-child(1){background-image: url(../img/oth1.png); color: #000;}
+section.other >ul.oth >li:nth-child(2){background-image: url(../img/oth2.png);}
+section.other >ul.oth >li:nth-child(3){background-image: url(../img/oth3.png);}
 section.other >ul.oth >li:nth-child(4){background-color: #f3e036;}
 section.other >ul.oth >li:nth-child(4) >a >span {
     font-size: 60px; font-weight: normal; line-height: 1.4;
